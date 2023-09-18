@@ -1,0 +1,4 @@
+int    a,b,c;
+//ignore comment
+a=b+c;
+
